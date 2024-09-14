@@ -1,9 +1,10 @@
 
-# Hi, I'm programwithabhi! 👋
+![Logo](https://programwithabhi.vercel.app/banner/profile-banner.png)
+# Hi, I'm Abhishek Biranje! 👋
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm a Full Stack Developer...
 
 
 
@@ -14,4 +15,4 @@ I'm a full stack developer...
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, React, Node JS, PHP, MongoDB, Python, NextJs and many more...
+Javascript, HTML, CSS, React, Node JS, PHP, MongoDB, Python, NextJs, Go, C++, docker and many more...
