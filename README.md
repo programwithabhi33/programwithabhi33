@@ -26,8 +26,8 @@
 
 ## Libraries, Frameworks, Databases and Tools
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" alt="React">](https://reactjs.org/)&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="40" alt="Express.js">](https://expressjs.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="40" alt="Flask">](https://flask.palletsprojects.com/)
+[<img src="https://raw.githubusercontent.com/programwithabhi33/programwithabhi33/main/assets/express.svg" height="40" alt="Express.js">](https://expressjs.com/)&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/programwithabhi33/programwithabhi33/main/assets/flask.svg" height="40" alt="Flask">](https://flask.palletsprojects.com/)&nbsp;&nbsp;
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg" height="40" alt="CodeIgniter">](https://codeigniter.com/)&nbsp;&nbsp;
 [<img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" height="40" alt="Laravel">](https://laravel.com/)
