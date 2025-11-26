@@ -1,10 +1,10 @@
 
-![Logo](https://programwithabhi.vercel.app/banner/profile-banner.png)
+![Logo](https://programwithabhi.vercel.app/banner/me-banner.png)
 # Hi, I'm Abhishek Biranje!
 
 
 ## About Me
-- Full Stack Developer
+- Backend-Focused Developer with strong frontend understanding
 - Linux User
 - Computer Networking and Hardware Enthusiast 
 
