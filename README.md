@@ -4,9 +4,9 @@
 
 
 ## About Me
-- Backend-Focused Developer with strong frontend understanding
-- Linux User
-- Computer Networking and Hardware Enthusiast 
+- Full Stack Developer.
+- Linux User.
+- Computer Networking and Hardware Enthusiast.
 
 
 ## My Social Links
